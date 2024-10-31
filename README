@@ -1,0 +1,35 @@
+## Synopsis
+
+author name:Malith Pramuditha
+author ID  :20926076
+
+Assignment one of Unix & C Programming
+
+
+## Contents
+
+main.c - main finctions
+map.c - map functions
+box.c - command arguments
+color.c
+random.c
+terminal.c
+main.h
+map.h
+box.h
+color.h
+random.h
+terminal.h
+makefile
+linkedList.c
+linkedList.h
+
+##Dependencies
+none
+
+
+##version information
+
+31/05/2023 
+
+
